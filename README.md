@@ -1,2 +1,3 @@
-# Lbdc
-# Lambda Symbol Compile - `λ~.` -> `lambda ~ : ` - using by function `λ`
+# Lbdc, Lambda Symbol Compile 
+ - `λ~.` -> `lambda ~ : `
+ - using by function `λ`
